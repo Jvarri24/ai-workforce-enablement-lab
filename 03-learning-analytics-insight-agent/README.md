@@ -1,7 +1,29 @@
 # Learning Analytics Insights Agent
 
-An AI-assisted enterprise learning analytics dashboard prototype designed to simulate operational reporting, compliance monitoring, and learning insights generation using synthetic enterprise data.
+AI-assisted enterprise learning analytics dashboard prototype designed to support compliance monitoring, governance reporting, operational decision-making, and workforce learning insights.
 
+## Overview
+
+Enterprise learning teams generate large volumes of operational data but often struggle to transform that information into actionable insights. Reporting processes may be fragmented across systems, require significant manual effort, and make it difficult to identify emerging compliance risks or operational issues.
+
+The Learning Analytics Insights Agent demonstrates how analytics and AI-enabled workflows can help learning leaders monitor performance, identify risk areas, and support data-informed decision-making.
+
+Built using synthetic data and fictional business scenarios, this prototype simulates a modern enterprise learning analytics experience.
+
+## Key Capabilities
+
+- Monitor learning completion rates across departments
+- Identify compliance and overdue-training risks
+- Surface operational performance indicators
+- Support governance and executive reporting
+- Explore AI-assisted analytics workflows
+
+## Technology Stack
+- Python
+- Streamlit
+- Pandas
+- Plotly
+  
 ---
 
 ## Business Problem
