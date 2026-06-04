@@ -1,59 +1,52 @@
 # Learning Intake Triage Agent
 
-An AI-assisted enterprise learning intake prototype designed to simulate how Learning & Development teams can prioritize, evaluate, and respond to incoming training requests using operational scoring logic and generative AI.
+AI-assisted intake and prioritization prototype designed to help enterprise learning teams evaluate, score, and respond to incoming training requests using structured governance criteria and generative AI.
 
 ---
 
 # Overview
 
-This prototype demonstrates how enterprise learning operations teams can streamline intake governance workflows by combining:
+Enterprise Learning & Development teams often receive more requests than available resources can support. Without a consistent intake process, prioritization decisions may become subjective, difficult to scale, and challenging to communicate across stakeholders.
 
-- rules-based prioritization
-- business impact scoring
-- stakeholder complexity analysis
-- compliance evaluation
-- AI-generated executive summaries
+The Learning Intake Triage Agent demonstrates how AI-enabled workflows can support intake governance, prioritization, and decision-making by combining business impact assessment, compliance considerations, operational complexity, and stakeholder analysis.
 
-The application is designed using fictional business scenarios and synthetic operational workflows for portfolio demonstration purposes.
+Built using synthetic data and fictional business scenarios, this prototype simulates a scalable enterprise learning intake experience.
 
 ---
 
-# Current Capabilities
+# Key Capabilities
 
-## Intake Workflow
+## Structured Intake Workflow
 
-The application collects structured intake information including:
-
-- training request details
-- audience scale
-- urgency
-- business impact
-- compliance risk
-- stakeholder complexity
-- requested delivery modality
-
----
-
-## Operational Scoring Logic
-
-The system evaluates requests using weighted logic to estimate:
-
-- priority level
-- implementation risk
-- escalation requirements
-- recommended timeline
-- recommended delivery strategy
+Collects critical intake information including:
+- Training request details
+- Audience size and scope
+- Urgency and timeline requirements
+- Business impact
+- Compliance considerations
+- Stakeholder complexity
+- Delivery modality preferences
 
 ---
 
-## AI-Generated Executive Brief
+## Prioritization & Governance Logic
 
-Using OpenAI API integration, the application generates:
+Evaluates requests using weighted scoring models to estimate:
+- Priority level
+- Implementation risk
+- Escalation requirements
+- Recommended timeline
+- Recommended delivery strategy
 
-- executive intake summaries
-- key operational risks
-- stakeholder considerations
-- recommended next actions
+---
+
+## AI-Generated Executive Briefs
+
+Generates executive-ready summaries including:
+- Key business objectives
+- Operational risks
+- Stakeholder considerations
+- Recommended next actions
 
 ---
 
